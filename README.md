@@ -1,2 +1,2 @@
 # Miuul-Machine-Learning
-My solutions for Miuul Machine Learnnig summer bootcamp.
+My solutions for Miuul Machine Learning summer bootcamp.
